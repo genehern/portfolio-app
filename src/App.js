@@ -2,18 +2,18 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
-import Skills from "./components/Skills";
-import Work from "./components/Work";
+import Projects from "./components/Projects";
+import Timeline from "./components/Timeline";
 
 
 function App() {
   return (
-    <div>
+    <div >
       <Navbar />
-      <Home />
+      <Home  />
       <About />
-      <Skills />
-      <Work />
+      <Timeline />
+      <Projects />
       <Contact />
     </div>
   );

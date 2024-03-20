@@ -28,3 +28,12 @@
         hsla(242, 74%, 61%, 0.8)   
     )!important;
 }
+
+@media (min-width: 1024px) {
+  
+    html{
+      scroll-behavior: smooth;
+      scroll-snap-type: y mandatory;
+    }
+    
+    }
