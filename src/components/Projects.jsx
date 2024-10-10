@@ -4,13 +4,13 @@ import volunteer from '../images/volunteer.png'
 import github from '../images/github.png'
 
 const projects =  [
-    {
-    title: "Volunteer Connect",
-    img: volunteer,
-    link: "https://volunteerconnectsg.netlify.app/",
-    header:"Volunteer Connect",
-    desc: "I developed VolunConnect which is a comprehensive platform using ReactJS, Firebase, and NodeJS to facilitate event uploads for beneficiaries and volunteer participation.TF-IDF vectorization was implemented to offer personalized recommendations for users and utilized Natural Language Processing (NLP) techniques for feedback analysis, enhancing user experience. There were also integrated features which enabled users to provide feedback and obtain certificates seamlessly within the platform.",         
-},
+//     {
+//     title: "Volunteer Connect",
+//     img: volunteer,
+//     link: "https://volunteerconnectsg.netlify.app/",
+//     header:"Volunteer Connect",
+//     desc: "I developed VolunConnect which is a comprehensive platform using ReactJS, Firebase, and NodeJS to facilitate event uploads for beneficiaries and volunteer participation.TF-IDF vectorization was implemented to offer personalized recommendations for users and utilized Natural Language Processing (NLP) techniques for feedback analysis, enhancing user experience. There were also integrated features which enabled users to provide feedback and obtain certificates seamlessly within the platform.",         
+// },
 
 {
   title: "Python Sort",
