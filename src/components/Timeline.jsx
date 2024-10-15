@@ -4,6 +4,7 @@ import 'react-vertical-timeline-component/style.min.css';
 import commando from '../images/commando.jpeg'
 import hwachong from '../images/hwachong.png'
 import farmer from '../images/farmer.jpg'
+//import dndts from "../images/dndts.jpg"
 
 const experiences = [
     {
