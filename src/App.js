@@ -5,12 +5,11 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Timeline from "./components/Timeline";
 
-
 function App() {
   return (
-    <div className = "overflow-hidden" >
+    <div className="overflow-hidden bg-cover bg-center bg-[url('./images/backgroundImage.jpg')] ">
       <Navbar />
-      <Home  />
+      <Home />
       <About />
       <Timeline />
       <Projects />
